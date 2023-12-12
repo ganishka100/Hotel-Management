@@ -71,7 +71,7 @@ export default function Home() {
             {/* ------------------Another---------------- */}
             <div class="d-flex mt-3" style={{backgroundColor:`#F5FEFD`}}>
              <p className="text-black-50 me-4">2</p>   
-            <img src="./Images/team--img-3.webp" width="40px" className="rounded-circle" alt="upload-img"></img>
+            <img src="./Images/team-img-3.webp" width="40px" className="rounded-circle" alt="upload-img"></img>
             <h6 class="ms-4 mt-2" style={{color:`#0A1172`, fontWeight:`bold`}}>Jocob Bosen</h6>
             <p className="text-black-50 ms-3 mt-2">082378740</p>
             {/* <p className="text-black-50 ms-4 mt-2 d-block d-md-none">Double</p> */}
