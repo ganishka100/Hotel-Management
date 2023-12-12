@@ -60,7 +60,7 @@ export default function Home() {
             <div class="d-flex mt-3" style={{backgroundColor:`#F5FEFD`}}>
              <p className="text-black-50 me-4">2</p>   
             <img src="./Images/simon.png" width="40px" className="rounded-circle" alt="upload-img"></img>
-            <h6 class="ms-4 mt-2" style={{color:`#0A1172`, fontWeight:`bold`}}>Jocob Bosen</h6>
+            <h6 class="ms-4 mt-2" style={{color:`#0A1172`, fontWeight:`bold`}}>Hardy Kaur</h6>
             <p className="text-black-50 ms-3 mt-2">082378740</p>
             {/* <p className="text-black-50 ms-4 mt-2 d-block d-md-none">Double</p> */}
             {/* <p className="text-black-50 ms-3">2/2/2023</p> */}
@@ -71,7 +71,7 @@ export default function Home() {
             {/* ------------------Another---------------- */}
             <div class="d-flex mt-3" style={{backgroundColor:`#F5FEFD`}}>
              <p className="text-black-50 me-4">2</p>   
-            <img src="./Images/jack.png" width="40px" className="rounded-circle" alt="upload-img"></img>
+            <img src="./Images/team--img-3.webp" width="40px" className="rounded-circle" alt="upload-img"></img>
             <h6 class="ms-4 mt-2" style={{color:`#0A1172`, fontWeight:`bold`}}>Jocob Bosen</h6>
             <p className="text-black-50 ms-3 mt-2">082378740</p>
             {/* <p className="text-black-50 ms-4 mt-2 d-block d-md-none">Double</p> */}
@@ -139,7 +139,7 @@ export default function Home() {
 <span style={{color:`#0A1172`, fontWeight:`bold`}} class="fs-5 ms-2">Shiny Sehta(Office)</span> 
 
 <img src="./Images/team-img-2.webp" class="w-50 me-3 rounded-circle mt-5 img-fluid" alt=""></img>
-<span style={{color:`#0A1172`, fontWeight:`bold`}} class="fs-5 ms-2">Lucy Lagg(Repair)</span> 
+<span style={{color:`#0A1172`, fontWeight:`bold`}} class="fs-5 ms-2">Lucy(Repair)</span> 
 
 <img src="./Images/team-img-3.webp"  class="rounded-circle w-50 mt-5 me-4" alt=""></img>
 <span style={{color:`#0A1172`, fontWeight:`bold`}} class="fs-5 ms-2">Korun(Cooking)</span> 
